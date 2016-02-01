@@ -5,6 +5,8 @@ Jungle Socks Tests
 
 https://gist.github.com/sturnquest/308557fb46d0b36cb49c
 
+#Solution
+
 Running CheckoutPageTest will test the tax calculation for all states.
 
 Note :  "North Dakota" test is failing. All the remaining states passed.
